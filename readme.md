@@ -1,4 +1,6 @@
-# Learn to use Python programming
+# 学习python语言
 ***
-hello world python2.7.
-this ia a test page!
+
+包含一些Python小工具，或者一些POC.
+由于个人能力有限，可能出现错误指出，欢迎您指正。
+#
